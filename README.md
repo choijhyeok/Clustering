@@ -57,7 +57,7 @@
          - 주변 거리인 eps를 정의하기 어려움
          - 원,구 같은 데이터에서는 k-means가 더 좋음
    &nbsp; 
-   3. Hierarchical clustering
+   3.Agglomerative 
       - 과정
           1. 가장 거리가 가까운 데이터를 찾고 이들을 묶음
           2. 점점 하나로 묶어가면서 최종적으로 하나의 묶음이 될때까지 수행
