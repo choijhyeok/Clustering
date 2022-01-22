@@ -1,4 +1,4 @@
-# Clustering 각각의 과정 분석 프로젝트
+# Clustering 분석 프로젝트
 
 &nbsp;
 
