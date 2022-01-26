@@ -111,7 +111,7 @@
     - 최종적으로 davies bouldin score까지 제일 낮은 군집을 각각의 알고리즘에서 선택
 &nbsp;
 ## 2D vs 3D 이미지
-
+ 
 
 <img src='http://drive.google.com/uc?export=view&id=18jCJtVeybybFd3eNkOVm2UatzVbAg1UJ' width="500">
 <img src='http://drive.google.com/uc?export=view&id=13A3VT-ZW18Al5fgXpSn5kNkCVJoWaHg_' width="500">
